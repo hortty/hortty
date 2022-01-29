@@ -15,7 +15,6 @@
   <img align="center" alt="Hortty-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Hortty-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Hortty-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Hortty-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="right" alt="Hortty-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/836253359505014807/919330869188100136/tenor.gif">
 </div>
   

@@ -18,7 +18,7 @@
   <img align="right" alt="Hortty-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/836253359505014807/919330869188100136/tenor.gif">
 </div>
   
-  #
+  ##
  
 <div> 
  

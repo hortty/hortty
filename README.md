@@ -18,13 +18,12 @@
   <img align="center" alt="Hortty-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Hortty-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Hortty-Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Hortty-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/836253359505014807/919330869188100136/tenor.gif">
 </div>
   
   #
  
 <div> 
- 
-   <img align="right" alt="Hortty-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/836253359505014807/919330869188100136/tenor.gif">
    
   ![Snake animation](https://github.com/hortty/hortty/blob/output/github-contribution-grid-snake.svg)
  

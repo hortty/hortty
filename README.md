@@ -1,11 +1,8 @@
 ### <h2> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hey what's up? &nbsp;&nbsp;&nbsp;😁👍</h2>
 
-![Gabriel Bueno's GitHub stats](https://github-readme-stats.vercel.app/api?username=hortty&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hortty&layout=compact&theme=tokyonight)](https://github.com/hortty/github-readme-stats)
+![Gabriel Bueno's GitHub stats](https://github-readme-stats.vercel.app/api?username=hortty&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hortty&layout=compact&theme=dracula)](https://github.com/hortty/github-readme-stats)
 
-<div align="center">
- 
-  <a href="https://github.com/hortty">
 <div style="display: inline_block"><br>
   <img align="center" alt="Hortty-ang" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Hortty-ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />

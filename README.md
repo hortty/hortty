@@ -1,9 +1,12 @@
 ### <h2> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hey what's up? &nbsp;&nbsp;&nbsp;😁👍</h2>
 
-![Gabriel Bueno's GitHub stats](https://github-readme-stats.vercel.app/api?username=hortty&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hortty&layout=compact&theme=dracula)](https://github.com/hortty/github-readme-stats)
+<div style="display: flex; gap: 8px; justify-content: center; align-items: center;">
+  ![Gabriel Bueno's GitHub stats](https://github-readme-stats.vercel.app/api?username=hortty&show_icons=true&theme=dracula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hortty&layout=compact&theme=dracula)](https://github.com/hortty/github-readme-stats)
+</div>
 
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="Hortty-ang" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Hortty-ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Hortty-core" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -18,6 +21,7 @@
   <img align="center" alt="Hortty-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Hortty-Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Hortty-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/836253359505014807/919330869188100136/tenor.gif">
+  
 </div>
   
   #

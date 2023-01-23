@@ -1,6 +1,6 @@
 ### <h2> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hey what's up? &nbsp;&nbsp;&nbsp;😁👍</h2>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 8px;">
+<div align="center">
   
   ![Gabriel Bueno's GitHub stats](https://github-readme-stats.vercel.app/api?username=hortty&show_icons=true&theme=dracula&card_width=400px)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hortty&layout=compact&theme=dracula)](https://github.com/hortty/github-readme-stats)

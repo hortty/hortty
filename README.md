@@ -2,9 +2,8 @@
 
 <div align="end">
   
-    ![Gabriel Bueno's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hortty&show_icons=true&theme=dracula&card_width=300px)
-  
-    [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hortty&layout=compact&theme=dracula)](https://github.com/hortty/github-readme-stats)
+     ![Gabriel Bueno's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hortty&show_icons=true&theme=dracula&card_width=300px)
+    [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hortty&layout=compact&theme=dracula)](https://github.com/hortty/github-readme-stats) 
   
 </div>
 

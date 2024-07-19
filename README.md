@@ -2,7 +2,7 @@
 
 <div align="left">
   
-![Gabriel Bueno's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hortty&show_icons=true&theme=dracula&card_width=300px) 
+![Gabriel Bueno's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hortty&show_icons=true&theme=dracula&card_width=250px) 
   
 </div>
 
@@ -29,12 +29,4 @@
   <img align="center" alt="Hortty-Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Hortty-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/836253359505014807/919330869188100136/tenor.gif">
   
-</div>
-  
-  #
- 
-<div> 
-   
-  ![Snake animation](https://github.com/hortty/hortty/blob/output/github-contribution-grid-snake.svg)
- 
 </div>

@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-hortmann-891a1b145/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://judge.beecrowd.com/pt/profile/106807" target="_blank">
+    <img src="https://img.shields.io/badge/beecrowd-2D9CDB?style=flat&logo=codeforces&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/github/followers/hortty?label=Follow&style=social" alt="GitHub Followers" />
 </p>
 
@@ -40,16 +46,6 @@
 - 🔭 I’m currently working on: ASP.NET APIs, ASP.NET MVC, Blazor apps, microservices and scalable backend systems  
 - 💬 Ask me about .NET, microservices, C#, APIs, SQL, angular, or clean architecture  
 - 🎯 Goals: Become a software Architect  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-hortmann-891a1b145/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://judge.beecrowd.com/pt/profile/106807" target="_blank">
-    <img src="https://img.shields.io/badge/beecrowd-2D9CDB?style=flat&logo=codeforces&logoColor=white"/>
-  </a>
-</p>
-
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdpYTB4NDFqNjQ5MjE3MXBobTY0czR4Y3h3cmRmeHlzZ3JieG55MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="300" />

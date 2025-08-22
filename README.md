@@ -11,7 +11,6 @@
   <a href="https://judge.beecrowd.com/pt/profile/106807" target="_blank">
     <img src="https://img.shields.io/badge/beecrowd-2D9CDB?style=flat&logo=codeforces&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/github/followers/hortty?label=Follow&style=social" alt="GitHub Followers" />
 </p>
 
 ---

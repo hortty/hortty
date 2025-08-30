@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-hortmann-891a1b145/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2E2E2E?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://judge.beecrowd.com/pt/profile/106807" target="_blank">
-    <img src="https://img.shields.io/badge/beecrowd-2D9CDB?style=flat&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/beecrowd-2E2E2E?style=flat&logo=codeforces&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/profile/gabrielhortmann" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2E2E2E?logo=hackerrank" alt="HackerRank Badge"/>

@@ -11,6 +11,9 @@
   <a href="https://judge.beecrowd.com/pt/profile/106807" target="_blank">
     <img src="https://img.shields.io/badge/beecrowd-2D9CDB?style=flat&logo=codeforces&logoColor=white"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/gabrielhortmann" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2E2E2E?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
 </p>
 
 ---

@@ -1,21 +1,27 @@
 
 <p align="center">
-  💻 .NET Developer | Focused on DDD, SOLID and Clean Architecture
+  .NET Developer 
 </p>
 
 <p align="center">
+  Focused on DDD, SOLID and Clean Architecture
+</p>
+
+<p align="center">
+  
   <a href="https://www.linkedin.com/in/gabriel-hortmann-891a1b145/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-2E2E2E?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://judge.beecrowd.com/pt/profile/106807" target="_blank">
     <img src="https://img.shields.io/badge/beecrowd-2E2E2E?style=flat&logo=codeforces&logoColor=white"/>
   </a>
+
   <a href="https://www.hackerrank.com/profile/gabrielhortmann" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2E2E2E?logo=hackerrank" alt="HackerRank Badge"/>
   </a>
+  
 </p>
-
----
 
 <!-- ### 🚀 Tech Stack
  <p align="center"> 
@@ -35,6 +41,4 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hortty&layout=compact&theme=dracula&card_width=300&hide_border=true" />
 </p>
 
----
-
-working on: ASP.NET APIs, microservices, Blazor apps, ASP.NET MVC and scalable backend systems  
+working on: ASP.NET APIs, microservices (Rabbit/Kafka), Blazor apps, ASP.NET MVC and scalable backend systems  

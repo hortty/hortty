@@ -41,4 +41,4 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hortty&layout=compact&theme=dracula&card_width=300&hide_border=true" />
 </p>
 
-working on: ASP.NET APIs, microservices (Rabbit/Kafka), Blazor apps, ASP.NET MVC and scalable backend systems  
+working on ASP.NET APIs, microservices (Rabbit/Kafka), Blazor apps, ASP.NET MVC and scalable backend systems  

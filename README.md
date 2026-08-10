@@ -1,10 +1,11 @@
 
 <p align="center">
   .NET Developer 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
 </p>
 
 <p align="center">
-  Focused on DDD, SOLID and Clean Architecture
+  working on ASP.NET APIs, microservices (Rabbit/Kafka), Blazor apps, DDD/Clean Architecture and scalable backend systems  
 </p>
 
 <p align="center">
@@ -12,11 +13,9 @@
   <a href="https://www.linkedin.com/in/gabriel-hortmann-891a1b145/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-2E2E2E?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://judge.beecrowd.com/pt/profile/106807" target="_blank">
     <img src="https://img.shields.io/badge/beecrowd-2E2E2E?style=flat&logo=codeforces&logoColor=white"/>
   </a>
-
   <a href="https://www.hackerrank.com/profile/gabrielhortmann" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2E2E2E?logo=hackerrank" alt="HackerRank Badge"/>
   </a>
@@ -38,8 +37,7 @@
 </p> -->
 
 <p align="center">
-  [![GitHub stats](https://github-stats-extended.vercel.app/api?username=hortty)](https://github.com/stats-organization/github-stats-extended)
-  [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=hortty&layout=compact&theme=dracula&card_width=300&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hortty&layout=compact&theme=dracula&card_width=300&hide_border=true" alt="Top Languages">
+  </a>
 </p>
-
-working on ASP.NET APIs, microservices (Rabbit/Kafka), Blazor apps, ASP.NET MVC and scalable backend systems  

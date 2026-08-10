@@ -38,7 +38,8 @@
 </p> -->
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hortty&layout=compact&theme=dracula&card_width=300&hide_border=true" />
+  [![GitHub stats](https://github-stats-extended.vercel.app/api?username=hortty)](https://github.com/stats-organization/github-stats-extended)
+  [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=hortty&layout=compact&theme=dracula&card_width=300&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 </p>
 
 working on ASP.NET APIs, microservices (Rabbit/Kafka), Blazor apps, ASP.NET MVC and scalable backend systems  
